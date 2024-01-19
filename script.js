@@ -7,3 +7,9 @@ function toggleMenu(){
     
     
 }
+function navigateToContact() {
+    // Reset the hash
+    window.location.hash = '';
+    // Set the hash to #contact
+    window.location.hash = 'contact';
+}
