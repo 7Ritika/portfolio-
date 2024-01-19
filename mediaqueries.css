@@ -94,4 +94,11 @@
     .text-container{
         text-align: justify;
     }
+    .experience-details-container {
+        /* Your default styles here */
+        width: 80%;
+        margin: auto;
+        /* other styling properties */
+    }
+    
 }
